@@ -1,6 +1,3 @@
 D:\vsProjects\SourcetreeTest\SourcetreeTest\bin\Debug\SourcetreeTest.exe.config
-
 D:\GitHub库\Roy\SourcetreeTest\SourcetreeTest\bin\Debug\SourcetreeTest.exe.config
-
 D:\GitHub库\Henry\SourcetreeTest\SourcetreeTest\bin\Debug\SourcetreeTest.exe.config
-
